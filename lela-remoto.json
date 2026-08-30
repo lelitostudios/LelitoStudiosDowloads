@@ -1,0 +1,29 @@
+{
+  "events": {
+    "arena-uhc": {
+      "active": true
+    },
+    "beta-test": {
+      "active": true
+    },
+    "tortaland": {
+      "active": false
+    }
+  },
+  "news": [
+    {
+      "id": "arena-uhc-abierto",
+      "title": "Arena UHC disponible",
+      "body": "Ya puedes jugar Arena UHC desde el launcher. ¡Abrimos las puertas del evento!",
+      "date": "2026-08-30",
+      "badge": "EVENTO"
+    },
+    {
+      "id": "beta-test-semanal",
+      "title": "Beta Test de la semana",
+      "body": "Nuevas pruebas de Beta Test listas para la comunidad.",
+      "date": "2026-08-30",
+      "badge": "BETA"
+    }
+  ]
+}
