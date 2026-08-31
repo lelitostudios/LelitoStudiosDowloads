@@ -1,7 +1,7 @@
 {
   "events": {
     "arena-uhc": {
-      "active": true
+      "active": false
     },
     "beta-test": {
       "active": true

@@ -3,9 +3,7 @@
   "updatedAt": "2026-08-31T03:55:00.000Z",
   "baseUrl": "https://raw.githubusercontent.com/lelitostudios/LelitoStudiosDowloads/main/files/mods/",
   "mods": {
-    "tortaland/fabric": [],
     "tortaland/forge": [],
-    "beta-test/fabric": [],
     "beta-test/forge": [],
     "beta-test/vanilla": []
   }
